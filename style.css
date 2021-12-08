@@ -35,7 +35,7 @@ body {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url('../img/barber.jpg');
+    background-image: url('/img/barber.jpg');
     height: 100vh; /*viewport height*/
     background-attachment: fixed; /*paralax*/
 }
@@ -150,7 +150,7 @@ body {
     top: -50px;
     width: 33%;
     padding: 20px;
-    background-image: url('../img/brush-big.jpg');
+    background-image: url('/img/brush-big.jpg');
   }
   
   .about .timing .overlay {
@@ -312,7 +312,7 @@ body {
     padding: 100px 0;
     background-color: var(--color-primary);
     height: 100vh;
-    background-image: url('../img/chair-ic.png');
+    background-image: url('/img/chair-ic.png');
     background-repeat: no-repeat;
     background-position: right bottom;
     background-size: 300px;
@@ -445,7 +445,7 @@ body {
   .location {
 
     padding: 100px 0;
-    background: url('../img/bg-location.jpg');
+    background: url('/img/bg-location.jpg');
     background-size: cover;
   }
 
