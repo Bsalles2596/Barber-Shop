@@ -35,7 +35,7 @@ body {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url('./img/barber.jpg');
+    background-image: url('img/barber.jpg');
     height: 100vh; /*viewport height*/
     background-attachment: fixed; /*paralax*/
 }
